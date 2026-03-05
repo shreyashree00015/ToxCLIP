@@ -1,1 +1,12 @@
-git+git://github.com/dptech-corp/Uni-Core.git@stable#egg=Uni-Core
+setuptools 
+wheel 
+twine 
+networkx 
+pandas 
+scikit-learn 
+ipython
+rdkit-pypi==2021.9.5.1
+torch 
+torchvision 
+torchaudio 
+git+https://github.com/dptech-corp/Uni-Core.git
